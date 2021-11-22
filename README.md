@@ -1,1 +1,2 @@
-# note-node.js-v12-discord
+no node_modules sorry 
+THis is my life
